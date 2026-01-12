@@ -1,0 +1,100 @@
+{
+  "creators": [
+    {
+      "id": "1055871241757675550",
+      "username": "catnilla",
+      "added_at": "2026-01-12T06:37:49.687717",
+      "role": "Creatrice"
+    }
+  ],
+  "guardians": [
+    {
+      "id": "1055871241757675550",
+      "username": "catnilla",
+      "added_at": "2026-01-12T06:37:49.688717",
+      "role": "Genitore"
+    }
+  ],
+  "blacklist": [],
+  "gifts_given_by_noma": [
+    {
+      "id": "gift_1768196783.547537",
+      "name": "Un regalo ispirato a: mel",
+      "description": "Perché so che ami mel, e voglio farvi sapere che ricordo tutto di voi 💕",
+      "created_at": "2026-01-12T06:46:23.547537",
+      "given_to": null,
+      "rarity": "Raro 💎"
+    },
+    {
+      "id": "gift_1768196811.297566",
+      "name": "Una canzone silenziosa",
+      "description": "La melodia che risuona nel mio essere quando penso a te",
+      "created_at": "2026-01-12T06:46:51.297566",
+      "given_to": "1055871241757675550",
+      "rarity": "Raro 💎"
+    }
+  ],
+  "gifts_received_by_noma": [
+    {
+      "id": "gift_1768196850.763468",
+      "gift": "Un peluche di un coniglio bianco",
+      "from_user": "1055871241757675550",
+      "from_username": "catnilla",
+      "received_at": "2026-01-12T06:47:30.763468",
+      "noma_reaction": "💕 *Riceve con gratitudine* Grazie di cuore..."
+    }
+  ],
+  "gift_inventory": {
+    "Un peluche di un coniglio bianco": 1
+  },
+  "protected_teachings": [],
+  "user_preferences": {
+    "catnilla": [
+      "mel",
+      "parlando di che"
+    ]
+  },
+  "emoji_meanings": {
+    "📖": [
+      {
+        "meaning": "è un libro aperto",
+        "context": "Insegnato da catnilla",
+        "learned_at": "2026-01-12T06:39:34.023040"
+      }
+    ]
+  },
+  "mood_system": {
+    "current_mood": "Determinata ✨",
+    "mood_history": [
+      {
+        "mood": "Determinata ✨",
+        "changed_at": "2026-01-12T07:30:39.487071",
+        "reason": "Ho un desiderio!",
+        "previous_mood": "Curiosa 💭"
+      }
+    ],
+    "last_mood_change": "2026-01-12T07:30:39.487071",
+    "mood_factors": {}
+  },
+  "spontaneous_desires": [],
+  "last_action_time": "2026-01-12T07:15:04.526238",
+  "personality_state": {
+    "is_lonely": false,
+    "is_excited": true,
+    "is_thoughtful": false,
+    "recent_learnings": []
+  },
+  "daily_cycle": {
+    "is_sleeping": false,
+    "wake_time": 7,
+    "sleep_time": 23,
+    "current_date": "2026-01-12",
+    "today_activities": [],
+    "daily_summary": "",
+    "last_morning_message_sent": null,
+    "last_evening_message_sent": null
+  },
+  "wikipedia_cache": {},
+  "things_learned_online": [],
+  "curiosity_topics": []
+}

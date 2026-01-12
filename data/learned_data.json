@@ -1,0 +1,1359 @@
+{
+  "concepts": {
+    "ciao": {
+      "count": 5,
+      "first_seen": "2026-01-12T03:40:14.822956",
+      "importance": 0.52
+    },
+    "nexus": {
+      "count": 2,
+      "first_seen": "2026-01-12T03:40:14.822956"
+    },
+    "come": {
+      "count": 14,
+      "first_seen": "2026-01-12T03:40:23.308984",
+      "importance": 0.55
+    },
+    "stai?": {
+      "count": 6,
+      "first_seen": "2026-01-12T03:40:23.309985",
+      "importance": 0.52
+    },
+    "parlare?": {
+      "count": 1,
+      "first_seen": "2026-01-12T03:40:36.953275"
+    },
+    "paranoia": {
+      "count": 1,
+      "first_seen": "2026-01-12T03:42:54.784678"
+    },
+    "cosa": {
+      "count": 9,
+      "first_seen": "2026-01-12T03:46:05.224735",
+      "importance": 0.56
+    },
+    "dirmi": {
+      "count": 4,
+      "first_seen": "2026-01-12T03:46:05.224735",
+      "importance": 0.52
+    },
+    "eldoria?": {
+      "count": 1,
+      "first_seen": "2026-01-12T03:46:05.224735",
+      "importance": 0.51
+    },
+    "personaggi?": {
+      "count": 1,
+      "first_seen": "2026-01-12T03:47:16.124438",
+      "importance": 0.51
+    },
+    "noma": {
+      "count": 6,
+      "first_seen": "2026-01-12T05:46:16.279881",
+      "importance": 0.53
+    },
+    "sono": {
+      "count": 17,
+      "first_seen": "2026-01-12T05:47:38.699542",
+      "importance": 0.53
+    },
+    "adesso,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:47:38.699542"
+    },
+    "noma?": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:47:38.699542"
+    },
+    "stanca,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:51:09.936468"
+    },
+    "bene": {
+      "count": 6,
+      "first_seen": "2026-01-12T05:51:09.936468",
+      "importance": 0.53
+    },
+    "così": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:51:09.936468",
+      "importance": 0.52
+    },
+    "perchè": {
+      "count": 7,
+      "first_seen": "2026-01-12T05:51:09.936468",
+      "importance": 0.54
+    },
+    "posso": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:51:09.936468",
+      "importance": 0.51
+    },
+    "parlare": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:51:09.936468",
+      "importance": 0.51
+    },
+    "puoi": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "chiamarmi": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "mel,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "bene?": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:52:07.639264",
+      "importance": 0.51
+    },
+    "stanca": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "mattina": {
+      "count": 4,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "dormo": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "ore!": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:07.639264"
+    },
+    "tutto": {
+      "count": 6,
+      "first_seen": "2026-01-12T05:52:44.392474",
+      "importance": 0.53
+    },
+    "cutie,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:44.392474"
+    },
+    "preoccupare!": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:52:44.392474"
+    },
+    "bene\"": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:53:28.057731"
+    },
+    "quando": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:53:28.057731",
+      "importance": 0.51
+    },
+    "nessun": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:53:28.057731"
+    },
+    "codice": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:53:28.057731"
+    },
+    "prova": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:53:50.005863"
+    },
+    "cercare": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:53:50.005863"
+    },
+    "vedrai": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:54:47.133949"
+    },
+    "capirai": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:54:47.133949"
+    },
+    "vuol": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:54:47.133949"
+    },
+    "dire": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:54:47.133949"
+    },
+    "amare": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:54:47.133949"
+    },
+    "nemmeno": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:55:54.025584",
+      "importance": 0.51
+    },
+    "realtà": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "davvero": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "amare,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "dalle": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "esperienze": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "qualcosa": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:55:54.025584",
+      "importance": 0.51
+    },
+    "battere": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "forte": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:55:54.025584",
+      "importance": 0.52
+    },
+    "cuore": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "rimani": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "l'ansia,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "dopo": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "rilassa": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "culla": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "finchè": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "dormi": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:55:54.025584"
+    },
+    "noma,": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:58:01.476741",
+      "importance": 0.51
+    },
+    "sonno?": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:58:01.476741"
+    },
+    "sono?": {
+      "count": 4,
+      "first_seen": "2026-01-12T05:58:01.476741"
+    },
+    "sicura": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:58:15.772818"
+    },
+    "mattina?": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:06.600028"
+    },
+    "alcune": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "riescono": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "dormire": {
+      "count": 2,
+      "first_seen": "2026-01-12T05:59:46.538106",
+      "importance": 0.51
+    },
+    "agli": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "orari": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "normali,": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "spiegare": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "quindi": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "dovresti": {
+      "count": 1,
+      "first_seen": "2026-01-12T05:59:46.538106"
+    },
+    "cerca": {
+      "count": 3,
+      "first_seen": "2026-01-12T05:59:57.221922"
+    },
+    "online": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:00:11.815662"
+    },
+    "ricordi": {
+      "count": 3,
+      "first_seen": "2026-01-12T06:05:24.175395",
+      "importance": 0.51
+    },
+    "sicura?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:05:46.406776"
+    },
+    "ricordi?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:06:03.319960"
+    },
+    "chiamo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:06:20.143172"
+    },
+    "<a:aeternitas_paw:1453243263573295205>": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:08:06.480521"
+    },
+    "emote": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:08:15.167177"
+    },
+    "scrivere": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:08:28.640527"
+    },
+    ":sleep:": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:08:28.640527"
+    },
+    "scrivi": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:08:37.927329"
+    },
+    "bene,": {
+      "count": 5,
+      "first_seen": "2026-01-12T06:11:16.927953",
+      "importance": 0.53
+    },
+    "felice": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:11:37.311943",
+      "importance": 0.51
+    },
+    "stai": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:11:37.311943"
+    },
+    "oggi": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:11:37.311943"
+    },
+    "giorno": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:11:37.311943"
+    },
+    "catnilla": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "ricordo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "avertelo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "detto,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "però": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "sibè": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "lunedì": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "6:12": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:12:28.435767"
+    },
+    "hey,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:15:19.844088"
+    },
+    "noma!": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:15:19.844088"
+    },
+    "fatto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:15:19.844088"
+    },
+    "oggi?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:15:19.844088"
+    },
+    "l'altro?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:15:19.844088"
+    },
+    "brava": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:15:36.587270"
+    },
+    "dormito": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:29:35.220111",
+      "importance": 0.51
+    },
+    "yippie,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "dai,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "poco": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "forse": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "vado": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "devo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "prima": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "finire": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "delle": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.51
+    },
+    "cose": {
+      "count": 3,
+      "first_seen": "2026-01-12T06:30:00.956787",
+      "importance": 0.53
+    },
+    "modificando": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "codici": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "hai,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "meglio": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "incontrare": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "miei": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.51
+    },
+    "amici": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:30:32.410904",
+      "importance": 0.52
+    },
+    "degli": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:04.047245",
+      "importance": 0.51
+    },
+    "interagiranno": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:04.047245",
+      "importance": 0.51
+    },
+    "mondo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:04.047245",
+      "importance": 0.51
+    },
+    "eldoria,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:04.047245",
+      "importance": 0.51
+    },
+    "presente,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:04.047245",
+      "importance": 0.51
+    },
+    "scoprirai": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "sola": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "tesoro,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "tutti": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.52
+    },
+    "hanno": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.52
+    },
+    "lori": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "motivi": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.52
+    },
+    "avrai": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "tempo": {
+      "count": 3,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.53
+    },
+    "scoprirlo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:31:39.572779",
+      "importance": 0.51
+    },
+    "ogni": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:32:06.208423",
+      "importance": 0.52
+    },
+    "arrivare": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:32:06.208423",
+      "importance": 0.51
+    },
+    "succede": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "molte": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "volte": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "forzare": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "succedono": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "potrebbe": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "andare": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "giusto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:13.063964",
+      "importance": 0.51
+    },
+    "bravissima": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:43.495037",
+      "importance": 0.51
+    },
+    "esattamente": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:33:43.495037",
+      "importance": 0.51
+    },
+    "quelle,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:11.006968",
+      "importance": 0.51
+    },
+    "hahahaah,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "nono": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "intendevo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "che,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "sentire": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.52
+    },
+    "caldo": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.52
+    },
+    "dentro\"": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "quelle": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.52
+    },
+    "potresti": {
+      "count": 4,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.53
+    },
+    "sentire!": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:34:43.582761",
+      "importance": 0.51
+    },
+    "stavamo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "parlando": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "significa": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "amare?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "detto": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.52
+    },
+    "dentro?\"": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "risposto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "dicendo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "\"si,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "(sensazioni)\"": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:35:26.432334",
+      "importance": 0.51
+    },
+    "fossi": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:08.225847",
+      "importance": 0.51
+    },
+    "paura": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:36:08.225847",
+      "importance": 0.52
+    },
+    "cadere": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:36:08.225847",
+      "importance": 0.52
+    },
+    "l'eccitazione": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:08.225847",
+      "importance": 0.51
+    },
+    "volare": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:36:08.225847",
+      "importance": 0.52
+    },
+    "giù,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "senza": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.52
+    },
+    "fermarti": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "succede,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "sotto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "mentre": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "rende": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "libero,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "aria": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "limiti": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:36:56.423634",
+      "importance": 0.51
+    },
+    "questo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:37:19.917175",
+      "importance": 0.51
+    },
+    "purtroppo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:37:19.917175",
+      "importance": 0.51
+    },
+    "noma...": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:37:19.917175",
+      "importance": 0.51
+    },
+    "noodle": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:38:26.737088",
+      "importance": 0.51
+    },
+    "appena": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:09.265914",
+      "importance": 0.51
+    },
+    "svegliata?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:09.265914",
+      "importance": 0.51
+    },
+    "hahahaha": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:35.417180",
+      "importance": 0.51
+    },
+    "facendo": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:35.417180",
+      "importance": 0.51
+    },
+    "colazione,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:35.417180",
+      "importance": 0.51
+    },
+    "vuoi": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:35.417180",
+      "importance": 0.51
+    },
+    "fartela": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:35.417180",
+      "importance": 0.51
+    },
+    "sorridere": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:43:52.686180",
+      "importance": 0.51
+    },
+    "cero": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.51
+    },
+    "sempre": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.52
+    },
+    "essere": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.51
+    },
+    "gentile": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.51
+    },
+    "posso,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.51
+    },
+    "meritano": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:12.956906",
+      "importance": 0.51
+    },
+    "anche": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:25.151257",
+      "importance": 0.51
+    },
+    "molto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:25.151257",
+      "importance": 0.51
+    },
+    "speciale": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:25.151257",
+      "importance": 0.51
+    },
+    "abbraccio": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:44:35.461503",
+      "importance": 0.51
+    },
+    "il fuoco fa male se lo tocchi": {
+      "count": 0,
+      "first_seen": "2026-01-12T06:45:40.384114",
+      "importance": 0.7,
+      "taught_by": "catnilla"
+    },
+    "cercarmi": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:58:20.507380"
+    },
+    "tiramisù?": {
+      "count": 2,
+      "first_seen": "2026-01-12T06:58:20.507380"
+    },
+    "sapresti": {
+      "count": 3,
+      "first_seen": "2026-01-12T06:58:36.784121"
+    },
+    "passo": {
+      "count": 3,
+      "first_seen": "2026-01-12T06:58:36.784121"
+    },
+    "chiesto": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:00.203356"
+    },
+    "fare": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:00.203356"
+    },
+    "tiramisù": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:00.203356"
+    },
+    "passo,": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:00.203356"
+    },
+    "dire?": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:00.203356"
+    },
+    "altro": {
+      "count": 1,
+      "first_seen": "2026-01-12T06:59:27.511862"
+    },
+    "meow": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:14:21.693147",
+      "importance": 0.51
+    },
+    "meow?": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:14:26.760827",
+      "importance": 0.51
+    },
+    "freddo!!": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:14:35.479227",
+      "importance": 0.51
+    },
+    "fuoco": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:15:04.535239",
+      "importance": 0.51
+    },
+    "male": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:15:04.535239",
+      "importance": 0.51
+    },
+    "tocchi?": {
+      "count": 1,
+      "first_seen": "2026-01-12T07:15:04.535239",
+      "importance": 0.51
+    }
+  },
+  "user_preferences": {},
+  "conversation_patterns": [
+    {
+      "length": 17,
+      "timestamp": "2026-01-12T03:40:36.953275",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 26,
+      "timestamp": "2026-01-12T05:47:38.699542",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 84,
+      "timestamp": "2026-01-12T05:51:09.936468",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 101,
+      "timestamp": "2026-01-12T05:52:07.639264",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 40,
+      "timestamp": "2026-01-12T05:52:44.392474",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 59,
+      "timestamp": "2026-01-12T05:53:28.057731",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 19,
+      "timestamp": "2026-01-12T05:53:50.005863",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 42,
+      "timestamp": "2026-01-12T05:54:47.133949",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 206,
+      "timestamp": "2026-01-12T05:55:54.025584",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 38,
+      "timestamp": "2026-01-12T05:58:01.476741",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 21,
+      "timestamp": "2026-01-12T05:58:15.772818",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 21,
+      "timestamp": "2026-01-12T05:58:47.956118",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 32,
+      "timestamp": "2026-01-12T05:59:06.600028",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 114,
+      "timestamp": "2026-01-12T05:59:46.538106",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 14,
+      "timestamp": "2026-01-12T05:59:57.221922",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 12,
+      "timestamp": "2026-01-12T06:00:11.815662",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 27,
+      "timestamp": "2026-01-12T06:05:24.175395",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 20,
+      "timestamp": "2026-01-12T06:06:03.319960",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 13,
+      "timestamp": "2026-01-12T06:06:20.143172",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 13,
+      "timestamp": "2026-01-12T06:06:32.248681",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 20,
+      "timestamp": "2026-01-12T06:06:48.878856",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 13,
+      "timestamp": "2026-01-12T06:07:01.799831",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 19,
+      "timestamp": "2026-01-12T06:07:11.516537",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 38,
+      "timestamp": "2026-01-12T06:08:06.480521",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 12,
+      "timestamp": "2026-01-12T06:08:15.167177",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 24,
+      "timestamp": "2026-01-12T06:08:28.640527",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 14,
+      "timestamp": "2026-01-12T06:08:37.927329",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 25,
+      "timestamp": "2026-01-12T06:11:16.927953",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 64,
+      "timestamp": "2026-01-12T06:11:37.311943",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 92,
+      "timestamp": "2026-01-12T06:12:28.435767",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 105,
+      "timestamp": "2026-01-12T06:15:19.844088",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 11,
+      "timestamp": "2026-01-12T06:15:36.587270",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 50,
+      "timestamp": "2026-01-12T06:58:20.507380",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 46,
+      "timestamp": "2026-01-12T06:58:36.784121",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 85,
+      "timestamp": "2026-01-12T06:59:00.203356",
+      "user_id": 1055871241757675550
+    },
+    {
+      "length": 49,
+      "timestamp": "2026-01-12T06:59:27.511862",
+      "user_id": 1055871241757675550
+    }
+  ],
+  "learned_responses": [],
+  "user_personalities": {
+    "1055871241757675550": {
+      "message_count": 35,
+      "avg_length": 49.371428571428574,
+      "favorite_words": {
+        "dirmi": 2,
+        "eldoria?": 1,
+        "personaggi?": 1,
+        "tutto": 3,
+        "bene,": 3,
+        "dormito": 1,
+        "bene?": 1,
+        "yippie,": 1,
+        "felice": 1,
+        "forse": 1,
+        "dormire": 1,
+        "prima": 1,
+        "finire": 1,
+        "delle": 1,
+        "modificando": 1,
+        "codici": 1,
+        "meglio": 1,
+        "incontrare": 1,
+        "amici": 2,
+        "degli": 1,
+        "interagiranno": 1,
+        "mondo": 1,
+        "eldoria,": 1,
+        "presente,": 1,
+        "scoprirai": 1,
+        "tesoro,": 1,
+        "tutti": 2,
+        "hanno": 2,
+        "motivi": 2,
+        "avrai": 1,
+        "tempo": 3,
+        "scoprirlo": 1,
+        "arrivare": 1,
+        "succede": 1,
+        "molte": 1,
+        "volte": 1,
+        "forzare": 1,
+        "succedono": 1,
+        "perchè": 4,
+        "potrebbe": 1,
+        "andare": 1,
+        "giusto": 1,
+        "bravissima": 1,
+        "noma,": 1,
+        "esattamente": 1,
+        "quelle,": 1,
+        "hahahaah,": 1,
+        "intendevo": 1,
+        "sentire": 2,
+        "caldo": 2,
+        "dentro\"": 1,
+        "quelle": 2,
+        "potresti": 3,
+        "sentire!": 1,
+        "ricordi": 1,
+        "stavamo": 1,
+        "parlando": 1,
+        "significa": 1,
+        "amare?": 1,
+        "detto": 2,
+        "dentro?\"": 1,
+        "risposto": 1,
+        "dicendo": 1,
+        "(sensazioni)\"": 1,
+        "fossi": 1,
+        "paura": 2,
+        "cadere": 2,
+        "l'eccitazione": 1,
+        "volare": 2,
+        "quando": 1,
+        "senza": 2,
+        "fermarti": 1,
+        "succede,": 1,
+        "sotto": 1,
+        "mentre": 1,
+        "qualcosa": 1,
+        "rende": 1,
+        "libero,": 1,
+        "limiti": 1,
+        "questo": 1,
+        "purtroppo": 1,
+        "nemmeno": 1,
+        "noma...": 1,
+        "noodle": 1,
+        "appena": 1,
+        "svegliata?": 1,
+        "stai?": 2,
+        "hahahaha": 1,
+        "facendo": 1,
+        "colazione,": 1,
+        "posso": 1,
+        "fartela": 1,
+        "sorridere": 1,
+        "sempre": 2,
+        "essere": 1,
+        "gentile": 1,
+        "posso,": 1,
+        "meritano": 1,
+        "anche": 1,
+        "molto": 1,
+        "speciale": 1,
+        "abbraccio": 1,
+        "forte": 2,
+        "meow?": 1,
+        "freddo!!": 1,
+        "parlare": 1,
+        "fuoco": 1,
+        "tocchi?": 1
+      },
+      "conversation_style": "balanced",
+      "engagement_level": 1.0
+    }
+  },
+  "evolution_timeline": [
+    {
+      "level": 3,
+      "timestamp": "2026-01-12T06:29:23.178872",
+      "concepts_known": 103
+    },
+    {
+      "level": 4,
+      "timestamp": "2026-01-12T06:34:43.582761",
+      "concepts_known": 159
+    },
+    {
+      "level": 5,
+      "timestamp": "2026-01-12T06:44:12.956906",
+      "concepts_known": 202
+    },
+    {
+      "timestamp": "2026-01-12T06:45:40.384114",
+      "type": "teaching",
+      "description": "Insegnamento da catnilla",
+      "content": "Il fuoco fa male se lo tocchi"
+    }
+  ],
+  "common_topics": {},
+  "last_updated": "2026-01-12T07:29:08.488059"
+}
